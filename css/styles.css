@@ -83,7 +83,7 @@ img {
 
 }
 
-.nav-bar .li-nav-item::after {
+.nav-bar .nav-item::after {
 width: 100%;
     height: 4px;
     background-color: #404BBF;
